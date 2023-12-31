@@ -7,9 +7,9 @@
   "reviews": [
     { "id": 1, "body": "review 1", "productId": 1 },
     { "id": 2, "body": "review 2", "productId": 1 },
-    { "id": 2, "body": "review 3", "productId": 2 },
-    { "id": 2, "body": "review 4", "productId": 3 },
-    { "id": 2, "body": "review 5", "productId": 3 }
+    { "id": 3, "body": "review 3", "productId": 2 },
+    { "id": 4, "body": "review 4", "productId": 3 },
+    { "id": 5, "body": "review 5", "productId": 3 }
   ],
   "inventory": {
     { "productId": 1, "available": 10},
